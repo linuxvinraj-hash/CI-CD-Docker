@@ -121,7 +121,7 @@ docker.io/<docker-username>/cicd-demo:latest
 
 ## 👤 Author
 
-Created as a hands-on DevOps learning project.
+Created as a hands-on DevOps project.
 
 ---
 
